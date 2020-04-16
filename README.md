@@ -1,2 +1,2 @@
-# flappy-bird
+# Flappy Bird Game
  Flappy Bird 🐥🎮
